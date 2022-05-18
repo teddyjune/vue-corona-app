@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: o;
+}
+html,
+body {
+  height: 100%;
+}
+#app {
+  height: 100%;
+}
