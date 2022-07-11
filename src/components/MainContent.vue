@@ -1,6 +1,6 @@
 <template>
   <h2 class="content-title">{{ content.label }}</h2>
-  <component :is="componentId"></component>
+  <component :is="targetComponent"></component>
 </template>
 
 <script>
